@@ -4,7 +4,7 @@
 
 [fork_sysahelper](https://sysadmin.lord-mikrotik.ru)
  
-[edit](https://edit.lord-mikrotik.ru)
+[edit_mardown-online](https://edit.lord-mikrotik.ru)
 
 [gitea](https://git.lord-mikrotik.ru/admin1350)
 
