@@ -1,4 +1,4 @@
 # Ссылки на сайты и сервисы
-[Man](man.lord-mikrotik.ru)
+[Man](man)
 
 [edit](edit.lord-mikrotik.ru)
