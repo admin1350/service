@@ -10,9 +10,11 @@
 
 [dns-adguad](https://dns.lord-mikrotik.ru)
 
-[wiki](wiki.lord-mikrotik.ru)
+[wiki_no active](wiki.lord-mikrotik.ru)
 
-[vaultwarden](vault.lord-mikrotik.ru)
+[vaultwarden](https://vault.lord-mikrotik.ru)
+
+[online Visual Studio Code](https://ide.lord-mikrotik.ru)
 
 ---
 
