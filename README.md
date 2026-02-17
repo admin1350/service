@@ -4,7 +4,7 @@
 
 [edit](https://edit.lord-mikrotik.ru)
 
-[gitea](https://gitea.lord-mikrotik.ru/admin1350)
+[gitea](https://git.lord-mikrotik.ru/admin1350)
 
 [dns-adguad](https://dns.lord-mikrotik.ru)
 
@@ -16,3 +16,6 @@
 [proxmox_nd](https://prox07.lord-mikrotik.online)
 
 [nginx](https://admin-nginx.lord-mikrotik.online)
+
+### Other
+[Gitea other](https://git.reisber.space/admin1350)
