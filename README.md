@@ -6,6 +6,8 @@
 
 [gitea](https://gitea.lord-mikrotik.ru/admin1350)
 
+[dns-adguad](https://dns.lord-mikrotik.ru)
+
 ---
 
 ### Zone *lord-mikrotik.online*
