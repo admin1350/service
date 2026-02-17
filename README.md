@@ -1,4 +1,16 @@
 # Ссылки на сайты и сервисы
-[Man](man)
+### Zone *lord-mikrotik.ru*
+[Man](https://man.lord-mikrotik.ru)
 
-[edit](edit.lord-mikrotik.ru)
+[edit](https://edit.lord-mikrotik.ru)
+
+[gitea](https://gitea.lord-mikrotik.ru/admin1350)
+
+---
+
+### Zone *lord-mikrotik.online*
+[nextcloud](https://nextcloud.selectel.lord-mikrotik.online)
+
+[proxmox_nd](https://prox07.lord-mikrotik.online)
+
+[nginx](https://admin-nginx.lord-mikrotik.online)
