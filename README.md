@@ -16,6 +16,9 @@
 
 [online Visual Studio Code](https://ide.lord-mikrotik.ru)
 
+[memos](https://memos.lord-mikrotik.ru)
+
+[proxmox_nd](https://prox07.lord-mikrotik.ru)
 ---
 
 ### Zone *lord-mikrotik.online*
