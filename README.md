@@ -19,6 +19,11 @@
 [memos](https://memos.lord-mikrotik.ru)
 
 [proxmox_nd](https://prox07.lord-mikrotik.ru)
+
+[docker web nd](https://docker.lord-mikrotik.ru)
+
+[Test mkdoks](https:/testdocks.lord-mikrotik.ru)
+
 ---
 
 ### Zone *lord-mikrotik.online*
