@@ -22,7 +22,7 @@
 
 [docker web nd](https://docker.lord-mikrotik.ru)
 
-[Test mkdoks](https://testdocks.lord-mikrotik.ru)
+[Test mkdocs](https://testdocs.lord-mikrotik.ru)
 
 ---
 
